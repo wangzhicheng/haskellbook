@@ -39,7 +39,8 @@ library
       scotty,
       hspec,
       containers,
-      text
+      text,
+      criterion
 
   default-language: Haskell2010
 
