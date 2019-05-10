@@ -2,7 +2,7 @@ name:                hangman
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/wangzhicheng/hangman#readme
+homepage:            https://github.com/wangzhicheng/haskellbook#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Wang Zhicheng
