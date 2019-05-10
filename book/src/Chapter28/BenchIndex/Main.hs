@@ -4,6 +4,7 @@ import           Criterion.Main
 
 infixl 9 !?
 {-# INLINABLE (!?) #-}
+(!?) :: [a] -> Int -> Maybe a
 xs !? n
   | n < 0 = Nothing
   | otherwise =
