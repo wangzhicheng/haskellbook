@@ -33,15 +33,7 @@ resolver: lts-13.20
 #  - auto-update
 #  - wai
 packages:
-- book/src/Chapter28/BenchIndex
-- book/src/Chapter28/MapVsAssocList
-- book/src/Chapter28/MutableVector
-- book/src/Chapter28/SequenceVsList
-- URLshortener
-- book/src/Chapter28/Vector
-- hangman
-- book
-- morse
+- .
 # Dependency packages to be pulled from upstream that are not in the resolver
 # using the same syntax as the packages field.
 # (e.g., acme-missiles-0.3)
